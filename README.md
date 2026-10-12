@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ini 👋 CS student × designer
 
-<!--
-**inisamuels/inisamuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Computer Science at the University of Calgary and running Innie's Loft, where I create brand identities for small businesses and creators.
 
-Here are some ideas to get you started:
+## What I do
+- 💻 **Code:** Python, and web development as I learn more
+- 🎨 **Design:** Branding, visual identity, and web design
+- 🚀 **Build:** Small projects that combine the two
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- My portfolio website
+- Growing my skills through CS coursework
+
+## Tools & skills
+Python · Web design · Branding · Figma
+
+## Reach me
+📍 Calgary, AB · 🌐 *(https://inisamuels.zite.so)* · 💼 *(https://linkedin.com/in/inioluwasamuels)*
